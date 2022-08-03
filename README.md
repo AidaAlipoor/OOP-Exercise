@@ -1,4 +1,4 @@
-# OOP-Exercise(.NET Framework)
+# OOP-exercise(.NET Framework)
 
 This is simple exercise of OOP 
 
