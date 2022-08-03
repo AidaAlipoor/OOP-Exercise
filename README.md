@@ -1,6 +1,6 @@
 # OOP-exercise(.NET Framework)
 
-This is simple exercise of OOP 
+This is a simple exercise of OOP 
 -----------------------------------------------------------------------------------------
 it includes 3 Type of cats (City cat , Wild cat , Domestic cat)
 
